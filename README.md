@@ -10,7 +10,10 @@ You can even take this a step further and try and build a Regression model to pr
 
 Go crazy with the dataset, but also make sure to provide some business insights to improve.
 
-Metadata
+### Link for Metadata
 
 https://www.kaggle.com/datasets/mohamed044hamedy/superstoredata
+
+## Dashboard
+<img width="1254" alt="Dashboard" src="https://user-images.githubusercontent.com/100791778/230569792-27a91e1d-ee41-456b-86de-ef8aa4777a96.png">
 
